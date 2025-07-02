@@ -16,7 +16,7 @@ DEFAULT_ARGS = {
 BASE_URL = "https://portal.inmet.gov.br"
 URL = BASE_URL + "/noticias"
 
-EMAIL = "eduarda.b2004@aluno.ifsc.edu.br"
+EMAIL = "seu_email@.com"
 
 
 @dag(
